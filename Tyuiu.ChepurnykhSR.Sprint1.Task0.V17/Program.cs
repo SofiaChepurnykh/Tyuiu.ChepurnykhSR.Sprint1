@@ -19,7 +19,7 @@ namespace Tyuiu.ChepurnykhSR.Sprint1.Task0.V17
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
             Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #17                                                              *");
+            Console.WriteLine("* Вариант #17                                                             *");
             Console.WriteLine("* Выполнила: Чепурных Софья Романовна | ИСТНБ-23-1                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
