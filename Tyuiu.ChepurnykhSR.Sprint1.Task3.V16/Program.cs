@@ -33,8 +33,8 @@ namespace Tyuiu.ChepurnykhSR.Sprint1.Task3.V16
             double x1 = 12;
             double x2 = 17;
 
-            Console.WriteLine("Значение X1:" + x1);
-            Console.WriteLine("Значение X2:" + x2);
+            Console.WriteLine("Значение X1: " + x1);
+            Console.WriteLine("Значение X2: " + x2);
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
